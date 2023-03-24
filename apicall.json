@@ -1,0 +1,53 @@
+[
+    {
+    "index": "1",
+    "name": "Harriet",
+    "description": "A friendly and outgoing grandmother who loves to cook and bake. She is the matriarch of her family and takes care of her grandchildren while their parents are away.\"\n"},
+
+    {
+        "index": "2",
+        "name": "Sam",
+        "description": "A shy and introverted teenager who loves to read and write stories. He dreams of becoming a famous author someday."},
+
+    {
+        "index": "3",
+        "name": "Martha",
+        "description": "A kind and compassionate nurse who always puts the needs of her patients first. She is known for her gentle bedside manner and healing touch."},
+
+    {
+        "index": "4",
+        "name": "Timothy",
+        "description": "A gruff and tough-looking blacksmith who secretly has a soft spot for animals. He takes in stray cats and dogs and cares for them in his workshop"},
+
+    {
+        "index": "5",
+        "name": "Emily",
+        "description": "A sweet and gentle girl who loves to tend to her garden. She grows beautiful flowers and herbs that are often used for medicinal purposes."},
+
+    {
+        "index": "6",
+        "name": "George",
+        "description": "A proud and stubborn old man who refuses to retire from his job as a farmer. He is fiercely independent and takes great pride in his crops."},
+
+    {
+        "index": "7",
+        "name": "Molly",
+        "description": "A spunky and adventurous young woman who dreams of exploring the world. She is often seen reading maps and travel guides, planning her next adventure."},
+
+    {
+        "index": "8",
+        "name": "Henry",
+        "description": "A grumpy old man who always seems to be complaining about something. Despite his sour demeanor, he has a heart of gold and will go out of his way to help his neighbors."},
+
+    {
+        "index": "9",
+        "name": "Lucy",
+        "description": "A timid and shy young girl who loves to play with dolls. She often gets bullied by other children in the village but remains kind and gentle."},
+
+    {
+        "index": "10",
+        "name": "William",
+        "description": "A young hardworking man who helps around the village. He is secretly in love with Molly."}
+]
+
+
